@@ -12,7 +12,7 @@ import android.view.MotionEvent;
 
 public class Ball {
 
-    private float ballRadius = 30;
+    private float ballRadius;
 
     private float ballX = ballRadius + 200;
     private float ballY = ballRadius + 330;
